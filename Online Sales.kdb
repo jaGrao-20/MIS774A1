@@ -6,7 +6,7 @@
     <database>OnlineSales</database>
     <port>3306</port>
     <username>root</username>
-    <password>Encrypted 4e6f746ad7f6c8aa1fd39394ae18a065cad3fe8b</password>
+    <password></password>
     <servername/>
     <data_tablespace/>
     <index_tablespace/>
